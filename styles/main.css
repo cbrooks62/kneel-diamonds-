@@ -1,0 +1,11 @@
+textarea {
+    color:black;
+    font-family: "Comfortaa", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 105;
+}
+
+h1, h2, h3, h5, h6 {
+    font-family: "Patua One", serif;
+    letter-spacing: 2px;
+}
